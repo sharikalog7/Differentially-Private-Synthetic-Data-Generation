@@ -1,6 +1,3 @@
-# Differentially-Private-Synthetic-Data-Generation
-Using inference-only approaches, LLMs generate high-quality synthetic data by prompting with sensitive examples and aggregating outputs with differential privacy, greatly expanding safe data sharing for development and benchmarking
-
 # Differentially Private Synthetic Data Generation
 
 This project demonstrates how **inference-only Large Language Models (LLMs)** can generate **synthetic datasets** from sensitive data, while ensuring **Differential Privacy (DP)**.
